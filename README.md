@@ -1,7 +1,6 @@
 # GoDiceRoll
 Wanna settle some differences with a roll of some dice? Here ya go!
 
-Dice-Game
 This project is a simple webpage dedicated to settling a party's differences by rolling dice and deciding a winner. Simply refresh the page to start the game.
 
 A web browser with stable internet connection is all that is needed to use the webpage.
