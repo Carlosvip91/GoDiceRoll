@@ -11,14 +11,15 @@ Will learn how to use animations to show dice rolling to their outcomes and impl
 Will add an interactive, dynamic scoring table to keep track of scoring and provide more information.
 Maybe add themes such as Casino, Royal, and Casual.
 Have certain animations happen when someone has won or lost.
+
 Built With
 
-HTML
+> HTML
 
-CSS
+> CSS
 
-Javascript
+> Javascript
 
 Acknowledgments
 
-Thanks to Angela Yu from App Brewery for the inspiration and guide to creating the project
+Thanks to Angela Yu from App Brewery for the inspiration and guide to creating the project. 
